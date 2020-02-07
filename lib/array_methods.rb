@@ -16,8 +16,8 @@ def using_first(array)
 end
 
 def using_last(array)
-  # array.last
-  array[-1]
+  array.last
+  # array[-1]
 end
 
 
